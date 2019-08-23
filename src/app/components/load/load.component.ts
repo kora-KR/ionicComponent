@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-load',
+  selector: 'kora-load',
   templateUrl: './load.component.html',
   styleUrls: ['./load.component.scss'],
 })

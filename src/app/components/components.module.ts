@@ -10,6 +10,7 @@ const coms:any[] = [
 
 @NgModule({
   imports: [
+    // 基础包(基础管道|指令,如ngIf/ngFor/ngClass等)
     CommonModule
   ],
   declarations: coms,
